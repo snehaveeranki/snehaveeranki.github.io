@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "SNEHA VEERANKI"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Sneha Veeranki"
+description              : &description "A current graduate student in Computer Science at the University of Cincinnati. Worked as a DotNet Developer in TCS for two years. I possess a strong skill set in MVC Framework, JQuery, JavaScript, HTML/CSS, Bootstrap, Oracle PL/SQL and other Web Development Technologies."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
